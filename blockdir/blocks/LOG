@@ -1,0 +1,48 @@
+=============== Oct 27, 2024 (IST) ===============
+23:40:21.949579 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:40:21.951440 db@open opening
+23:40:21.954346 version@stat F·[] S·0B[] Sc·[]
+23:40:21.955070 db@janitor F·2 G·0
+23:40:21.955088 db@open done T·3.636584ms
+=============== Oct 27, 2024 (IST) ===============
+23:41:28.389403 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:41:28.390628 version@stat F·[] S·0B[] Sc·[]
+23:41:28.390639 db@open opening
+23:41:28.390672 journal@recovery F·1
+23:41:28.392061 journal@recovery recovering @1
+23:41:28.392840 memdb@flush created L0@2 N·2 S·562B "\x00\x00\x00\x00\x00\x00\x00\x01,v1":"\x00\x00\x00\x00\x00\x00\x00\x02,v2"
+23:41:28.393051 version@stat F·[1] S·562B[562B] Sc·[0.25]
+23:41:28.394533 db@janitor F·3 G·0
+23:41:28.394541 db@open done T·3.89879ms
+=============== Oct 27, 2024 (IST) ===============
+23:46:37.813304 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:46:37.815598 version@stat F·[1] S·562B[562B] Sc·[0.25]
+23:46:37.815613 db@open opening
+23:46:37.815654 journal@recovery F·1
+23:46:37.816073 journal@recovery recovering @3
+23:46:37.822912 memdb@flush created L0@5 N·2 S·555B "\x00\x00\x00\x00\x00\x00\x00\x01,v4":"\x00\x00\x00\x00\x00\x00\x00\x02,v5"
+23:46:37.824248 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+23:46:37.828502 db@janitor F·4 G·0
+23:46:37.828521 db@open done T·12.901492ms
+23:46:37.828525 db@close closing
+23:46:37.828592 db@close done T·65.969µs
+=============== Oct 28, 2024 (IST) ===============
+00:01:50.479504 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:01:50.479852 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:01:50.479856 db@open opening
+00:01:50.479876 journal@recovery F·1
+00:01:50.481215 journal@recovery recovering @6
+00:01:50.481470 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:01:50.483657 db@janitor F·4 G·0
+00:01:50.483673 db@open done T·3.812392ms
+00:01:50.483677 db@close closing
+00:01:50.483729 db@close done T·45.195µs
+=============== Oct 28, 2024 (IST) ===============
+00:05:27.663679 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:05:27.663884 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:05:27.663895 db@open opening
+00:05:27.663943 journal@recovery F·1
+00:05:27.665771 journal@recovery recovering @8
+00:05:27.666071 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+00:05:27.669095 db@janitor F·4 G·0
+00:05:27.669117 db@open done T·5.21581ms
